@@ -2,7 +2,7 @@
 
 ## Supported tags and respective `Dockerfile` links
 
-* `v1.12.0`, `latest`    [(v1.12.0/Dockerfile)](https://github.com/nosinovacao/fluxctl-docker/blob/v1.12.0/Dockerfile)
+* `1.12.0`, `latest`    [(1.12.0/Dockerfile)](https://github.com/nosinovacao/fluxctl-docker/blob/1.12.0/Dockerfile)
 
 ## Overview
 
