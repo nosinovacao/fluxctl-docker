@@ -3,7 +3,7 @@ FROM lachlanevenson/k8s-kubectl:v1.16.2
 
 LABEL maintainer="NOS Inovação S.A. <nosi.platforms@nos.pt>"
 
-ENV FLUX_LATEST_VERSION="1.14.2"
+ENV FLUX_LATEST_VERSION="1.15.0"
 
 RUN apk add --update ca-certificates \
  && apk add --update -t deps curl \
