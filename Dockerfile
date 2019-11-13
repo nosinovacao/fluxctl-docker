@@ -1,5 +1,5 @@
 # alpine based
-FROM lachlanevenson/k8s-kubectl:v1.14.6
+FROM lachlanevenson/k8s-kubectl:v1.16.2
 
 LABEL maintainer="NOS Inovação S.A. <nosi.platforms@nos.pt>"
 
