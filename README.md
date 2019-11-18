@@ -1,11 +1,5 @@
 # Flux Client
 
-## Supported tags and respective `Dockerfile` links
-
-* `1.14.2-k14`, `latest` [(1.14.2-k14/Dockerfile)](https://github.com/nosinovacao/fluxctl-docker/blob/1.14.2-k14/Dockerfile)
-* `1.14.2-k15`,    [(1.14.2-k15/Dockerfile)](https://github.com/nosinovacao/fluxctl-docker/blob/1.14.2-k15/Dockerfile)
-* `1.12.0-k13`    [(1.12.0-k13/Dockerfile)](https://github.com/nosinovacao/fluxctl-docker/blob/1.12.0-k13/Dockerfile)
-* `1.12.0`    [(1.12.0/Dockerfile)](https://github.com/nosinovacao/fluxctl-docker/blob/1.12.0/Dockerfile)
 
 ## Overview
 
