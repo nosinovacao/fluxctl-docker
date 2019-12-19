@@ -1,6 +1,5 @@
 # Flux Client
 
-
 ## Overview
 
 This container provides the Flux client fluxctl which can be used to interact with the Flux operator.
