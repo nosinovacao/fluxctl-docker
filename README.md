@@ -14,4 +14,4 @@ For more information regarding Flux, please visit <https://github.com/weaveworks
 
 ## Run
 
-`docker run --rm nosinovacao/fluxctl:latest --help`
+`docker run --rm ghcr.io/nosinovacao/fluxctl:latest --help`

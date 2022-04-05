@@ -1,9 +1,9 @@
 # alpine based
-FROM lachlanevenson/k8s-kubectl:v1.17.17
+FROM lachlanevenson/k8s-kubectl:v1.21.10
 
 LABEL maintainer="NOS Inovação S.A. <nosi.platforms@nos.pt>"
 
-ENV FLUX_LATEST_VERSION="1.20.2"
+ENV FLUX_LATEST_VERSION="1.24.3"
 
 RUN apk add --update ca-certificates \
  && apk add --update -t deps curl \
